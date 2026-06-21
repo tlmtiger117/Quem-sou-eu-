@@ -78,6 +78,7 @@
      paraddo sem fazer nada. Acredito qeu ninguém sabe tudo, e quem sempre podemos
      aprender com as outras pessoas (pessoas boas e ruins).
      
+     
   
 
 
