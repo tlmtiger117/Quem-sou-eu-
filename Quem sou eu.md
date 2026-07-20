@@ -51,8 +51,7 @@
 
 - Como me vejo no futuro:
   
-   - Já na área de pentest/cibersegurança,aprendendo /já sabendo inglês básico, pensado em
-     sair do Brasail(tudo pronto).
+   - Já na área de pentest de infraestrutura, aprendendo inglês e pensando em sair do brasil.
 
 - Pontos fortes:
 
