@@ -65,7 +65,7 @@
 
 - Pontos fracos:
   
-   - "Não sei inglês"(tenho contato em vídeos e jogos, mas nada avançado)
+   - não tenho o "inglês perfeito", mas consigo ler e escrever algumas frases (principalemnte assunto técnico).
    - Bateria social baixa(depois de muito social, preciso de um tempo sozinho)
    - Liderança(sou mais "livre", oque pode ser bom ou ruim),depende do contexto
    - Comunicação(liderança e comunicação são habilidades que sempre podem ser melhoradas).
