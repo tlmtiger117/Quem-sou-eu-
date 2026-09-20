@@ -3,7 +3,7 @@
 
 - Quem sou eu?:
    
-   - Olá, sou o Guilherme Augusto de Paula, tenho 17 anos e estou estudando a mais de um
+   - Olá, sou o Guilherme Augusto de Paula, tenho 18 anos e estou estudando a mais de um
      ano as áreas de Pentest e rede de computadores. Ainda estou na escola (EMTI), mas
      isso não me impede de estudar quando tenho tempo sobrando.
 
@@ -32,7 +32,7 @@
      
 - O que me motiva:
   
-  - Desafio com propósito(aprende isso para resoler aquilo)
+  - local que me permita crescer profissionalemnte
   - Pessoas querendo fazer algo(estudar,ensinar,ajudar,trocar ideias...)
   - Ambientes calmos com poucas ou nenhuma pessoa(fico mais concentrado)
   - Liderança boa, enetende cada pessoa, sabe os pontos fortes e fracos deles, sabe motivar
@@ -42,8 +42,7 @@
 - O que me desgasta/consome:
 
    - Ambientes barulhentos(menos foco, mais estresse, menos resultado)
-   - Grupos de estudo ruins(ninguém querendo fazer nada). Já não sou de ficar em grupo, e
-        ainda tenho que suportar um grupo ruim!?
+   - Grupos de aprendizado ruins(ninguém querendo fazer nada).
      
    - Não entender que pessoas são/apreendem de formas diferentes
    - Achar que sabe de tudo mas não sabe nada(não ouve opinião dos outros)
@@ -67,14 +66,14 @@
   
    - não tenho o "inglês perfeito", mas consigo ler e escrever algumas frases (principalemnte assunto técnico).
    - Bateria social baixa(depois de muito social, preciso de um tempo sozinho)
-   - Liderança(sou mais "livre", oque pode ser bom ou ruim),depende do contexto
+   - Liderança(sou mais "livre", o que pode ser bom ou ruim),depende do contexto
    - Comunicação(liderança e comunicação são habilidades que sempre podem ser melhoradas).
 
 - O que acredito:
 
    - Acredito que todos podem alcançar seus objetivos, mas isso não quer dizer que seja
      fácil e muito menos confortável. Crescer é difícil, mas é bem melhor do que ficar
-     paraddo sem fazer nada. Acredito qeu ninguém sabe tudo, e quem sempre podemos
+     paraddo sem fazer nada. Acredito que ninguém sabe tudo, e quem sempre podemos
      aprender com as outras pessoas (pessoas boas e ruins).
      
      
